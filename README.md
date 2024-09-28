@@ -8,6 +8,10 @@
 
 ![Alecarvalho950 GitHub stats](https://github-readme-stats.vercel.app/api?username=alecarvalho950&show_icons=true&theme=tokyonight)
 
+## Tecnologias mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecarvalho950&layout=compact)
+
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
